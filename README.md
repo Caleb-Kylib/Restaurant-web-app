@@ -1,2 +1,2 @@
 # Restaurant-web-app
-Online ordering and online reservations features
+this web-app supports Online ordering and online reservations for same date or specific date services.
